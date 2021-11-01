@@ -16,4 +16,6 @@ This repository hosts my code and contributions to the 2021 #30DayMapChallenge. 
 
 ## 📊 Contributions
 
-*Coming soon!*
+| Category             |  Example |
+:-------------------------:|:-------------------------:
+[Day 1: Points](notebooks/01_Points.ipynb)  |  ![](contributions/01_IRN.png)
