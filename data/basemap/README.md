@@ -1,0 +1,1 @@
+The Explorer Base Map (`eo_base_2020_clean_geo.tif`) is courtesy Joshua Stevens of the NASA Earth Observatory, available at: [https://visibleearth.nasa.gov/images/147190/explorer-base-map](https://visibleearth.nasa.gov/images/147190/explorer-base-map)
