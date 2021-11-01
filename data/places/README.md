@@ -1,1 +1,1 @@
-Populated places (1:110m) are courtesy Natural Earth, available at: [https://www.naturalearthdata.com/](https://www.naturalearthdata.com/)
+World Cities Database, Basic are courtesy Simple Maps, available at: [https://simplemaps.com/data/world-cities](https://simplemaps.com/data/world-cities)
