@@ -21,3 +21,5 @@ This repository hosts my code and contributions to the 2021 #30DayMapChallenge. 
 [Day 1: Points](notebooks/01_Points.ipynb)  |  ![](contributions/01_IRN.png)
 [Day 2: Lines](notebooks/02_Lines.ipynb)  |  ![](contributions/02_Himalayas.png)
 [Day 3: Polygons](notebooks/03_Polygons.ipynb)  |  ![](contributions/03_Verona.png)
+[Day 4: Hexagons]()  |  Coming soon!)
+[Day 5: OpenStreetMap](notebooks/05_OSM.ipynb)  |  ![](contributions/05_Amsterdam.png)
