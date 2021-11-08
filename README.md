@@ -25,3 +25,4 @@ This repository hosts my code and contributions to the 2021 #30DayMapChallenge. 
 [Day 5: OpenStreetMap](notebooks/05_OSM.ipynb)  |  ![](contributions/05_Amsterdam.png)
 [Day 6: Red](notebooks/06_Red.ipynb)  |  ![](contributions/06_2020.png)
 [Day 7: Green](notebooks/07_Green.ipynb)  |  ![](contributions/07_Paris.png)
+[Day 8: Blue](notebooks/07_Blue.ipynb)  |  ![](contributions/08_ISL.png)
