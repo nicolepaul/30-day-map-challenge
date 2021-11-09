@@ -26,3 +26,4 @@ This repository hosts my code and contributions to the 2021 #30DayMapChallenge. 
 [Day 6: Red](notebooks/06_Red.ipynb)  |  ![](contributions/06_2020.png)
 [Day 7: Green](notebooks/07_Green.ipynb)  |  ![](contributions/07_Paris.png)
 [Day 8: Blue](notebooks/08_Blue.ipynb)  |  ![](contributions/08_ISL.png)
+[Day 9: Monochrome](notebooks/09_Monochrome.ipynb)  |  ![](contributions/09_Greece.png)
