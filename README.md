@@ -29,3 +29,4 @@ This repository hosts my code and contributions to the 2021 #30DayMapChallenge. 
 [Day 9: Monochrome](notebooks/09_Monochrome.ipynb)  |  ![](contributions/09_Greece.png)
 [Day 10: Raster](notebooks/10_Raster.ipynb)  |  ![](contributions/10_TUR.png)
 [Day 11: 3D](notebooks/11_3D.ipynb)  |  ![](contributions/11_3D.png)
+[Day 12: Population](notebooks/12_Population.ipynb)  |  ![](contributions/12_Population.png)
