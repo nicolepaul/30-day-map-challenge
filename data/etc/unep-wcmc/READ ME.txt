@@ -1,0 +1,24 @@
+=====================================
+Global Distribution of Coral Reefs
+
+	Date created: 2010
+	Version: 4.1
+	Date of version release: March 2021
+	Distributed under UNEP-WCMC's General Data License (excluding WDPA)
+	For more information, please contact marine@unep-wcmc.org. 
+
+--------------------------------------------------------
+Requested citation: 
+UNEP-WCMC, WorldFish Centre, WRI, TNC (2010). Global distribution of warm-water coral reefs, compiled from multiple sources including the Millennium Coral Reef Mapping Project. Version 4.0. Includes contributions from IMaRS-USF and IRD (2005), IMaRS-USF (2005) and Spalding et al. (2001). Cambridge (UK): UNEP World Conservation Monitoring Centre. URL: http://data.unep-wcmc.org/datasets/1
+
+Citations for the separate entities:
+IMaRS-USF (Institute for Marine Remote Sensing-University of South Florida) (2005). Millennium Coral Reef Mapping Project. Unvalidated maps. These maps are unendorsed by IRD, but were further interpreted by UNEP World Conservation Monitoring Centre. Cambridge (UK): UNEP World Conservation Monitoring Centre
+
+IMaRS-USF, IRD (Institut de Recherche pour le Developpement) (2005). Millennium Coral Reef Mapping Project. Validated maps. Cambridge (UK): UNEP World Conservation Monitoring Centre
+
+Spalding MD, Ravilious C, Green EP (2001). World Atlas of Coral Reefs. Berkeley (California, USA): The University of California Press. 436 pp.
+--------------------------------------------------------
+
+Earlier version-specific comments:
+============================================
+For information regarding changes between versions, please refer to the "Lineage" field in the accompanying metadata.

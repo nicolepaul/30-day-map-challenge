@@ -1,0 +1,68 @@
+======================================
+General Data License (excluding WDPA)
+
+Last Updated: 21/07/2014
+Online: http://www.unep-wcmc.org/policies/general-data-license-excluding-wdpa
+
+======================================
+1. Introduction
+
+Access to datasets held by UNEP and managed by UNEP-WCMC (the “Data”), is provided on the understanding that you read and consent to be bound by the Terms and Conditions set out below. For the purposes of this Agreement the “Data” comprise any of the spatial data and associated attribute data downloadable from the UNEP-WCMC website, excluding the World Database on Protected Areas.
+
+============================
+2. No commercial use
+
+Neither (a) the Data nor (b) any work derived from or based upon it (“Derivative Works”) may be put to Commercial Use without the prior written permission of the Director of UNEP-WCMC. For the purposes of these Terms and Conditions, “Commercial Use” means a) any use for profit, or b) any use by an individual or entity operating within or on behalf of or to the benefit of or to assist the activities of any entity other than a not-for-profit organisation. To apply for permission for Commercial Use of the Data please send an email to business-support@unep-wcmc.org outlining your needs.
+
+============================
+3. No sub-licensing or redistribution of data
+
+The Data may not be sub-licensed in whole or in part including within Derivative Works without the prior written permission of the Director of UNEP-WCMC. You may not redistribute the Data in whole or in part by any means including (but not limited to) electronic formats such as web downloads, through web services, through interactive web maps that grant users download access, KML Files or through file transfer protocols. If you know of others who wish to use the Data, please refer them to this website. If you wish to provide a service through which the Data are downloadable or otherwise made available for redistribution you must contact spatialanalysis@unep-wcmc.org for permission and further guidance.
+
+============================
+4. Publishing the data
+
+You may publish the Data in whole or in part, including on-line, providing (a) the Data are not downloadable and (b) the appropriate proper attribution is clearly visible (see clause 5 below). You must ensure that the most recently available version of the relevant Data is being used and that the year of release is visible in the published version. If you are planning an analysis that either makes use of the dataset(s) in their entirety and/or is a global-scale analysis, you are required to notify the Director of UNEP-WCMC to explore the appropriateness of the analysis and the possibilities for collaboration, and to avoid duplication of effort. Any Data published online must provide a clear link to the UNEP-WCMC website (www.unep-wcmc.org). We recommend that you have the relevant materials reviewed by UNEP-WCMC prior to publication. We require two free copies of all published materials to be provided to UNEP-WCMC. Hard copies should be sent to, The Informatics Programme, UNEP-WCMC, 219 Huntingdon Road, Cambridge CB3 0DL, UK. Electronic copies should be sent to spatialanalysis@unep-wcmc.org.
+
+============================
+5. Attribution
+
+You must ensure that the appropriate citation is always clearly reproduced in any publication or analysis involving the Data in any derived form or format. Please see the metadata attached to each dataset for information on the appropriate citation.
+6. Data updates
+
+Unless required to do so for specific analyses, you should not use any version of the Data after it has been superseded by a subsequent version. It is your responsibility to check if an update of the relevant dataset is available.
+
+============================
+7. No warranty and waiver of liability
+
+The Data are provided to you ‘as is’, and no warranty of any kind is given as to its completeness or accuracy, nor do we make any commitment to ensure that the Data are kept up to date. All warranties, representations and conditions, express or implied, are hereby excluded to the fullest extent permitted by law. You agree that you download and make use of the Data entirely at your own risk. You hereby waive and release UNEP, WCMC and any and all third party providers of Data from any liability whatsoever, wherever and howsoever arising in connection with any use of the Data. You agree that this waiver and release is effective in any and every jurisdiction in the world. You agree that UNEP, WCMC and any and all third party providers of Data will not be liable on any grounds (including without limitation negligence, strict liability or under any other legal theory) for any loss or damage (direct or indirect) incurred by you or any third party as a result of the use by you or any third party of the Data or any Derivative Works. You agree to indemnify and hold harmless UNEP, WCMC and any and all third party providers of Data in respect of any loss or damage (direct or indirect) suffered by any third party as a result of any use by that third party of any Data or Derivative Works published by you. You also agree to indemnify and hold harmless UNEP, WCMC and any and all third party providers of Data in respect of any claim by any third party that arises (directly or indirectly) from any misuse of Data by you. This indemnity is given without limitation to any other legal remedies that may be available to UNEP and WCMC in the event of a breach by you of these Terms and Conditions. Without limitation to any of the above, any damage occurring to computer systems as a result of attempts to download the Data is entirely your own responsibility.
+
+============================
+8. Disclaimer on frontiers, national boundaries
+
+The geographic designations in the Data do not represent an opinion by UNEP, WCMC and any and all third party providers of Data concerning the legal status of any country, territory or area, or concerning the delimitation of its frontiers or borders.
+
+============================
+9. Feedback and revised information
+
+In order to keep the Data up to date, UNEP-WCMC would like you to provide feedback on the quality, reliability and accuracy of the datasets. We also welcome revised information on the Data in the form of GIS data, maps, tables, GPS coordinates or any other useable format. Such contributions should be free of restrictions. The objective is to improve the Data content for the benefit of the global conservation community.
+
+============================
+10. No grant of intellectual property rights
+
+No rights in the Data are granted to you by virtue of these Terms and Conditions or as the result of any use by you of the Data. Please note that neither UNEP nor WCMC have necessarily asserted any intellectual property rights in the Data that has been made available to us by third party data providers. Nothing in this agreement alters the intellectual property rights of third party data providers. However, all intellectual property rights in the design and construction of the database itself (as opposed to the underlying data) are normally the property of UNEP.
+
+============================
+11. Dispute resolution, law and jurisdiction
+
+These Terms and Conditions shall be governed by and construed in accordance with English law. Any dispute arising out of or in connection with this download and the subsequent use of the Data shall be settled by amicable negotiation between you and UNEP. Should attempts at amicable negotiation fail, any such dispute shall, upon request by either you or UNEP, be referred to arbitration in accordance with the UNCITRAL arbitration rules then prevailing.
+
+============================
+12. Communication
+
+Any communication with respect to these Terms and Conditions and any issue arising from them shall be in writing, in English, and sent by email. The address for communication with the data supplier is spatialanalysis@unep-wcmc.org.
+
+============================
+13. Changes to these terms and conditions
+
+UNEP reserves the right to vary these Terms and Conditions from time to time without notice. Therefore please ensure that you read these Terms and Conditions each time you download Data. By downloading any of the Data you signify your acceptance of the most recent version of these Terms and Conditions in full.
